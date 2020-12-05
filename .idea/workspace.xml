@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/talk-loco-commands/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/talk-loco-commands-derive/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="20fc9409-fb1d-4f51-8d0d-94ee4bf7bccd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/talk-loco-commands-rs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/talk-loco-commands/src/booking/get_conf.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/talk-loco-commands/src/booking/mod.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands-derive/Cargo.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands-derive/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands-derive/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands-derive/src/lib.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-commands/Cargo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-commands/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/request/booking/get_conf.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/request/booking/mod.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/request/chat/chat_info.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/request/chat/chat_on_room.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/request/chat/delete_msg.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/request/chat/get_mem.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/request/chat/l_chat_list.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/request/chat/leave.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/request/chat/login_list.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/request/chat/member.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/request/chat/mod.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/request/chat/noti_read.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-commands/src/chat/noti_read.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/request/chat/set_meta.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/request/chat/set_st.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/request/chat/sync_link.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-commands/src/chat/sync_link.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/request/chat/sync_msg.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/request/chat/update_chat.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/request/chat/write.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-commands/src/chat/write.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/request/checkin/buy_cs.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/request/checkin/checkin.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/request/checkin/mod.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-commands/src/checkin/mod.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/request/media/mod.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/request/mod.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/request/ping.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-commands/src/ping.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/response/booking/get_conf.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/response/booking/mod.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/response/chat/change_svr.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-commands/src/chat/change_svr.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/response/chat/chat_info.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-commands/src/chat/chat_info.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/response/chat/chat_on_room.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-commands/src/chat/chat_on_room.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/response/chat/chg_meta.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-commands/src/chat/chg_meta.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/response/chat/decun_read.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-commands/src/chat/decun_read.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/response/chat/delete_msg.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-commands/src/chat/delete_msg.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/response/chat/get_mem.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-commands/src/chat/get_mem.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/response/chat/kickout.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-commands/src/chat/kick_out.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/response/chat/l_chat_list.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-commands/src/chat/l_chat_list.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/response/chat/leave.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-commands/src/chat/leave.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/response/chat/left.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-commands/src/chat/left.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/response/chat/login_list.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-commands/src/chat/login_list.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/response/chat/member.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-commands/src/chat/member.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/response/chat/mod.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-commands/src/chat/mod.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/response/chat/msg.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-commands/src/chat/msg.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/response/chat/new_mem.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-commands/src/chat/new_mem.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/response/chat/set_meta.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-commands/src/chat/set_meta.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/response/chat/set_st.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-commands/src/chat/set_st.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/response/chat/sync.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-commands/src/chat/sync.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/response/chat/sync_link.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/response/chat/sync_msg.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-commands/src/chat/sync_msg.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/response/chat/update_chat.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-commands/src/chat/update_chat.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/response/checkin/buy_cs.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-commands/src/checkin/buy_cs.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/response/checkin/checkin.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-commands/src/checkin/checkin.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/response/checkin/mod.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/response/media/mod.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-commands/src/response/mod.rs" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Rust File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="fjvisr5w" />
+  </component>
+  <component name="ProjectId" id="1lDtEhFKLrRiYrHuNAs84d6SIM6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\djdis\talk-loco-commands-rs\talk-loco-commands\src" />
+      <recent name="C:\Users\djdis\talk-loco-commands-rs\talk-loco-commands\src\chat" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="cargo build" />
+      <command value="cargo update" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Cargo.build [talk-loco-commands-rs]">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="build [talk-loco-commands-rs]" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="build" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="update [talk-loco-commands-rs]" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="update" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cargo.build [talk-loco-commands-rs]" />
+        <item itemvalue="Cargo.update [talk-loco-commands-rs]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$PROJECT_DIR$/../.cargo/bin" />
+    <option name="version" value="2" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20fc9409-fb1d-4f51-8d0d-94ee4bf7bccd" name="Default Changelist" comment="" />
+      <created>1607143380377</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607143380377</updated>
+      <workItem from="1607143382057" duration="1514000" />
+      <workItem from="1607145133503" duration="183000" />
+      <workItem from="1607146715615" duration="75000" />
+      <workItem from="1607151638506" duration="183000" />
+      <workItem from="1607151900135" duration="639000" />
+      <workItem from="1607152692509" duration="43000" />
+      <workItem from="1607152786897" duration="8066000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser" timestamp="1607144194203">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1607144194203" />
+    <state x="309" y="287" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1607160998327">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="309" y="287" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1607160998327" />
+    <state x="474" y="244" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1607161001059">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="474" y="244" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728@0.0.1366.728" timestamp="1607161001059" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1607152810770">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607152810770" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1607152810770">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1607152810770" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1607152810769">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1607152810769" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1607152810770">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607152810770" />
+    <state x="498" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607153905285">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="498" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1607153905285" />
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1607145151075">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1607145151075" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1607159631729">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1607159631729" />
+  </component>
+</project>
